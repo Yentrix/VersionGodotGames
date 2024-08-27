@@ -1,6 +1,6 @@
-[
-  {
-    "id": "Godumper Engine",
-    "version": "0.0.15"
-  }
-]
+{
+    "Godumper Engine":
+    {
+      "version": "0.0.15"
+    }
+}
